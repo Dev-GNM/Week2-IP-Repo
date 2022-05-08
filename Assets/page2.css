@@ -1,0 +1,36 @@
+*{
+    padding :0%;
+    margin:0%;
+    box-sizing: border-box;
+}
+body{
+    margin: 1%;
+    font-family:'Poppins,  Actor, Adamina';
+}
+#sectheader{
+    background-color: black;
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+}
+.list> ul> li{
+    display: flex;
+    flex-direction: row;
+    float: right; 
+    padding: 50px;
+    list-style: none;
+    color: antiquewhite;
+}
+.modern{
+    color:white;
+    display: flex;
+    flex-direction:row;
+    padding: 10px
+}
+.header{
+    padding-left:50px;
+}
+.fig{
+    float: right;
+    padding-left: 800px;
+}
