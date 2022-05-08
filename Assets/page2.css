@@ -32,5 +32,66 @@ body{
 }
 .fig{
     float: right;
-    padding-left: 800px;
+    padding-left: 700px;
 }
+#keylay{
+    padding:100px;
+    background-color: rgb(179, 175, 175);
+    color: antiquewhite;
+}
+.phone{
+    display:flex;
+    flex-direction: row;
+}
+.phone1>button{
+    color:white;
+    padding:50px;
+    width:200px;
+}
+.img1{
+    background-image: url("../Assets/Images /Property\ House.png");
+    height: 800px;
+    width: 650px;
+    padding-left:80px;
+    padding-top: 50px;
+}
+.flex-container{
+    display: flex;
+    row-gap: 30px;
+}
+.flex-item1{
+    background-image: url("../Assets/Images /Rectangle.png");
+    height: 110px;
+    width: 90px;
+    padding: 10px;
+}
+.flex-item2{
+    background-image: url("../Assets/Images /Rectangle-1.png");
+    height: 110px;
+    width: 90px;
+    padding:10px;
+}
+.flex-item3{
+    background-image: url("../Assets/Images /Rectangle-2.png");
+    height: 110px;
+    width: 90px;
+}
+.flex-item4{
+    background-image: url("../Assets/Images /Rectangle-3.png");
+    height: 110px;
+    width: 90px;
+}
+.flex-item5{
+    background-image: url("../Assets/Images /Rectangle-4.png");
+    height: 110px;
+    width: 90px;
+}
+.flex-item6{
+    background-image: url("../Assets/Images /Rectangle-5.png");
+    height: 110px;
+    width: 90px;
+}
+.flex-item7{
+    background-image: url("../Assets/Images /Rectangle-6.png");
+    height: 110px;
+    width: 90px;}
