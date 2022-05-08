@@ -101,6 +101,7 @@ body{
     height: 350px;
     border-radius: 25px;
     background-color: azure;
+    padding-left: 100px;
 }
 .desc p {
     padding: 30px;
@@ -110,6 +111,7 @@ body{
     height: 350px;
     border-radius: 25px;
     background-color: azure;
+    padding-left: 100px;
 }
 .features>h3{
     padding:100px;
@@ -129,6 +131,9 @@ body{
 }
 h4 {
     padding: 15px;
+}
+h1 {
+    padding: 50px;
 }
 .container {
     display: grid;
@@ -196,11 +201,11 @@ h4 {
     height: 400px;
 }
 .dream {
-    height: 100px;
+    height: 150px;
     display: flex;
     flex-direction: row;
     justify-content: space-around;
-    padding-top: 50px;
+    padding: 50px;
 }
 .dream button {
     background-color: yellow;
@@ -211,6 +216,7 @@ h4 {
     display: flex;
     flex-direction: row;
     justify-content: space-around;
+    padding: 30px;
 }
 .listing li, h3 {
     color: white;
@@ -218,6 +224,6 @@ h4 {
 }
 .icons i {
     color: white;
-    padding-top: 70px;
+    padding-top: 50px;
     padding-right: 20px;
 }
