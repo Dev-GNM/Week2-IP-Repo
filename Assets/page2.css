@@ -102,3 +102,120 @@ body{
     border-radius: 25px;
     background-color: azure;
 }
+.desc p {
+    padding: 30px;
+}
+.features{
+    width: 60%;
+    height: 350px;
+    border-radius: 25px;
+    background-color: azure;
+}
+.fix {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 15px;
+
+}
+.fix li {
+    list-style: none;
+    padding: 8px;
+}
+.fix i {
+    padding-right: 5px;
+}
+h4 {
+    padding: 15px;
+}
+.container {
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    column-gap: 50px;
+}
+.card {
+    background-color: aqua;
+    height: 300px;
+    border-radius: 25px;
+    
+}
+.whole {
+    height: 450px;
+    border-radius: 25px;
+    background-color: whitesmoke;
+}
+.card1 {
+    background-color: aqua;
+    height: 300px;
+    border-radius: 25px;
+    background-image: url("neymar.jpg");
+    background-size: cover;
+}
+.card2 {
+    background-color: aqua;
+    height: 300px;
+    border-radius: 25px;
+    background-image: url("neymar.jpg");
+    background-size: cover;
+}
+.card3 {
+    background-color: aqua;
+    height: 300px;
+    border-radius: 25px;
+    background-image: url("neymar.jpg");
+    background-size: cover;
+}
+.card4 {
+    background-color: aqua;
+    height: 300px;
+    border-radius: 25px;
+    background-image: url("neymar.jpg");
+    background-size: cover;
+}
+.smaller {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    border-top: 1px solid black;
+}
+.small {
+    height: 50px;
+    border: 0.5px solid black;
+    width: 95px;
+    border-radius: 10px;
+    row-gap: 20px;
+    align-content: center;
+}
+.small h2 {
+    padding-left: 30px;
+}
+.black {
+    background-color: black;
+    height: 400px;
+}
+.dream {
+    height: 100px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding-top: 50px;
+}
+.dream button {
+    background-color: yellow;
+    height: 50px;
+    width: 130px;
+}
+.lists {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.listing li, h3 {
+    color: white;
+    list-style: none;
+}
+.icons i {
+    color: white;
+    padding-top: 70px;
+    padding-right: 20px;
+}
