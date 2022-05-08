@@ -5,6 +5,7 @@
 }
 body{
     margin: 1%;
+    font-family:'Poppins,  Actor, Adamina';
 }
 #sectheader{
     background-image: url("../Assets/Images /moving 1.png");
@@ -79,6 +80,10 @@ li{
     padding-left: 100px;
     padding-right: 100px
 }
+#secttop{
+    background-color: rgb(161, 160, 160);
+    padding
+}
 #secttop h1{
     padding: 100px;
     padding-top: 80px;
@@ -141,4 +146,32 @@ li{
     height: 200px;
     width: 300px;
     background-size: cover;
+}
+footer{
+    background-color: black;
+    height:350px;
+}
+footer h1{
+    color:white;
+    padding: 50px;
+}  
+.flex{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+.column1> ul>li{
+    display: flex;
+    flex-direction: column;
+    color:white;
+}
+.column2> ul>li{
+    display: flex;
+    flex-direction: column;
+    color:white;
+}
+.column3> ul>li{
+    display: flex;
+    flex-direction: column;
+    color:white;
 }
