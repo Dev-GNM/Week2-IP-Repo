@@ -94,4 +94,11 @@ body{
 .flex-item7{
     background-image: url("../Assets/Images /Rectangle-6.png");
     height: 110px;
-    width: 90px;}
+    width: 90px;
+}
+.desc {
+    width: 60%;
+    height: 350px;
+    border-radius: 25px;
+    background-color: azure;
+}
