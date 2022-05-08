@@ -1,0 +1,50 @@
+*{
+    padding :0%;
+    margin:0%;
+    box-sizing: border-box;
+}
+body{
+    margin: 1%;
+}
+#sectheader{
+    background-image: url("../Assets/Images /moving 1.png");
+    opacity: 1.4;
+    height: 100vh;
+    background-size: cover;
+}
+.list{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-around;
+    float: right;
+    padding-bottom: 100px;
+}
+li{
+    padding:10px;
+    color:antiquewhite;
+    display: flex;
+    display:inline-block;
+    list-style: none;
+}
+.Register{
+    padding: 3px;
+    color:black;
+    background-color: yellow;
+}
+.Login{
+    color: yellow;
+    background-color: black;
+    padding:3px;
+}
+.change{
+    color: yellow;
+    font-size: 50px;
+    text-align: left;
+    padding: 80px;
+}
+.roof{
+    font-size: 30px;
+    text-align: left;
+    color: white;
+    padding-left: 80px;
+}
