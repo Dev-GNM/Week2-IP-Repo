@@ -85,11 +85,17 @@ li{
     padding-bottom: 80px;
     font-size: xx-large;
 }
+.A>.Movers{
+    padding: 10px;
+}
 .grid-item1{
     background-image: url("../Assets/Images /ehem\ 1.png");
     height: 200px;
     width: 300px;
     background-size: cover;
+}
+.Maridadi>.Mar{
+    padding:10px;
 }
 .grid-item1 h4{
     padding: 10px;
@@ -100,11 +106,17 @@ li{
     width: 300px;
     background-size: cover;
 }
+.ufalme>.uf{
+    padding:10px;
+}
 .grid-item3{
     background-image: url("../Assets/Images /movers\ 1.png");
     height: 200px;
     width: 300px;
     background-size: cover;
+}
+.chapchap>.chap{
+    padding:10px;
 }
 .grid-item4{
     background-image: url("../Assets/Images /chapchap\ 1.png");
@@ -112,11 +124,17 @@ li{
     width: 300px;
     background-size: cover;
 }
+.songa>.son{
+    padding:10px;
+}
 .grid-item5{
     background-image: url("../Assets/Images /mashinani\ 1.png");
     height: 200px;
     width: 300px;
     background-size: cover;
+}
+.upesi>.Upes{
+    padding:10px;
 }
 .grid-item6{
     background-image: url("../Assets/Images /songa\ 1.png");
