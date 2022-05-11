@@ -6,6 +6,7 @@
 body{
     margin: 1%;
     font-family:'Poppins,  Actor, Adamina';
+    background-color: lightgray;
 }
 #sectheader{
     background-color: black;
@@ -44,6 +45,15 @@ body{
     display: flex;
     flex-direction: column;
     padding: 40px;
+    margin-right: 100px;
+    margin-left: 100px;
+    background-color: lightgray;
+}
+.phone{
+    background-color: darkgray;
+}
+.img1{
+    border-radius: 50px;
 }
 .form{
     display: flex;
