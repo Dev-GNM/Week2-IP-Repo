@@ -38,7 +38,7 @@ body{
     padding:100px;
     background-color: rgb(179, 175, 175);
     color: antiquewhite;
-    row-gap: 20px;
+    margin-bottom: 30px;
 }
 .keylay{
     display: flex;
@@ -127,7 +127,8 @@ button:hover{
     height: 350px;
     border-radius: 25px;
     background-color: azure;
-    padding-left: 100px;
+    margin-left: 100px;
+    margin-bottom: 30px;
 }
 .desc p {
     padding: 30px;
@@ -137,7 +138,7 @@ button:hover{
     height: 350px;
     border-radius: 25px;
     background-color: azure;
-    padding-left: 100px;
+    margin-left: 100px;
 }
 .features>h3{
     padding:100px;
@@ -165,6 +166,8 @@ h1 {
     display: grid;
     grid-template-columns: auto auto auto auto;
     column-gap: 50px;
+    margin-left: 100px;
+    margin-right: 100px;
 }
 .card {
     background-color: aqua;
